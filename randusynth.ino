@@ -9,6 +9,11 @@
  * -	connect DAC1 to an amplifier. You can follow this: http://arduino.cc/en/Tutorial/SimpleAudioPlayer
  * -	(optional) clipping indicator: connect a LED to pin 10
  * 
+ * LIBRARIES:
+ * You'll need "SplitRadixReal FFT Library" and my own fork of Groovuino:
+ * - https://coolarduino.wordpress.com/2014/09/25/splitradixreal-fft-library/
+ * - https://github.com/pierinz/Groovuino
+ * 
  * CREDITS:
  * This sketch was built around the "SplitRadixReal FFT Library" example from
  * https://coolarduino.wordpress.com/2014/09/25/splitradixreal-fft-library/
